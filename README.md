@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello and Assalamulaikum
 
-<!--
-**HamidMasood479/HamidMasood479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Hamid Masood
 
-Here are some ideas to get you started:
+Passionate Game Designer 🎮 | Computer Science Student 🎓 | Comsats University Lahore, Pakistan 🇵🇰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me
+
+- 💻 Skills: C++/C#, Game Design, Ideation , Core Gameplay, Level Design, Game Mechanics, Game Flow, Player Progression
+- 🚀 Working on exciting game development projects
+
+### Connect with Me
+
+Let's connect and collaborate! Find me on:
+
+-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-masood-1999211b4/)
+
+
+Feel free to reach out to me for game design or ideation or to improve exsisting games.
