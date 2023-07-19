@@ -18,3 +18,7 @@ Let's connect and collaborate! Find me on:
 
 
 Feel free to reach out to me for game design or ideation or to improve exsisting games.
+
+### Games Created and Designed By Me
+- The Sinister Maze (Created and Designed) [![Link]](https://hamidmasood479.itch.io/the-sinister-maze)
+- Not Chess (Designed) [![Link]](https://itch.io/jam/gmtk-2023/rate/2162340)
