@@ -22,4 +22,4 @@ Feel free to reach out to me for game design or ideation or to improve exsisting
 ### Games Created and Designed By Me
 - The Sinister Maze (Created and Designed) [Link](https://hamidmasood479.itch.io/the-sinister-maze)
 - Not Chess (Designed) [Link](https://itch.io/jam/gmtk-2023/rate/2162340)
-- Colour Cargo (Design and Development) [Link]([https://itch.io/jam/gmtk-2023/rate/2162340](https://www.linkedin.com/posts/hamid-masood-1999211b4_mindstorm-gamedevelopment-games-activity-7120066322452930560-dSwJ?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/hamid-masood-1999211b4_mindstorm-gamedevelopment-games-activity-7120066322452930560-dSwJ?utm_source=share&utm_medium=member_desktop)
+- Colour Cargo (Design and Development) [Link](https://itch.io/jam/gmtk-2023/rate/2162340](https://www.linkedin.com/posts/hamid-masood-1999211b4_mindstorm-gamedevelopment-games-activity-7120066322452930560-dSwJ?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/hamid-masood-1999211b4_mindstorm-gamedevelopment-games-activity-7120066322452930560-dSwJ?utm_source=share&utm_medium=member_desktop)
