@@ -7,8 +7,9 @@ Passionate Game Designer 🎮 | Computer Science Student 🎓 | Comsats Universi
 
 ### About Me
 
-- 💻 Skills: Game Design, Ideation , Core Gameplay, Level Design, Game Mechanics, Game Flow, Player Progression, Prototyping
 - 🚀 Passionate Game Designer.
+- 💻 Skills: Game Design, Ideation , Core Gameplay, Level Design, Game Mechanics, Game Flow, Player Progression, Prototyping
+  
 
 ### Connect with Me
 
