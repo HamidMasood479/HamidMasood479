@@ -15,7 +15,7 @@ Passionate Game Designer 🎮 | Computer Science Student 🎓 | Comsats Universi
 Let's connect and collaborate! Find me on:
 
 -  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-masood-1999211b4/)
--  [Email](hamidmasood479@gmail.com)
+-  📫[Email me](mailto:hamidmasood479@gmail.com)
 
 
 Feel free to reach out to me for game design or ideation or to improve exsisting games.
