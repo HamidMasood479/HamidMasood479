@@ -2,7 +2,7 @@
 
 **🎮 Game Designer | 🎓 Computer Science Graduate | 📍 Lahore, Pakistan**
 
-I’m a passionate **Game Designer** driven by creativity and the joy of crafting player-centric experiences. I love transforming ideas into interactive worlds — from prototypes to complete gameplay loops.
+I’m a passionate **Game Designer** driven by creativity and the joy of crafting player-centric experiences. I love transforming ideas into interactive worlds — from prototypes to products.
 
 ---
 
@@ -45,6 +45,7 @@ Here’s a curated list of the games and prototypes I’ve worked on:
 
 - **Twisted Campus: A Student's Nightmare**  
   👉 [Gameplay Video](https://drive.google.com/file/d/1hkBE5NDO8bpyG_hQwWrf6A8rlMbEpmpE/view?usp=sharing)
+- More updates on [linkedin](https://www.linkedin.com/in/hamid-masood-1999211b4/) 
 
 ### 🧩 Other Projects
 - Hexa Stack  
